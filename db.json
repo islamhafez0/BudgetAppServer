@@ -1,0 +1,142 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "title": "Salary",
+      "amount": 4000,
+      "type": "income",
+      "category": "2",
+      "date": "2022-01-05"
+    },
+    {
+      "id": 2,
+      "title": "Groceries",
+      "amount": 150,
+      "type": "exepanse",
+      "category": "4",
+      "date": "2022-02-15"
+    },
+    {
+      "id": 3,
+      "title": "Project x",
+      "amount": 900,
+      "type": "income",
+      "category": "2",
+      "date": "2022-03-20"
+    },
+    {
+      "id": 4,
+      "title": "Rent",
+      "amount": 1000,
+      "type": "exepanse",
+      "category": "4",
+      "date": "2021-10-13"
+    },
+    {
+      "id": 5,
+      "title": "Vacation",
+      "amount": 2500,
+      "type": "exepanse",
+      "category": "5",
+      "date": "2022-06-30"
+    },
+    {
+      "id": 6,
+      "title": "Investment return",
+      "amount": 300,
+      "type": "income",
+      "category": "3",
+      "date": "2022-04-10"
+    },
+    {
+      "id": 7,
+      "title": "Gift",
+      "amount": 50,
+      "type": "exepanse",
+      "category": "4",
+      "date": "2022-09-12"
+    },
+    {
+      "id": 8,
+      "title": "Monthly save",
+      "amount": 500,
+      "type": "exepanse",
+      "category": "6",
+      "date": "2022-10-13"
+    },
+    {
+      "id": 9,
+      "title": "Stocks",
+      "amount": 2000,
+      "type": "exepanse",
+      "category": "3",
+      "date": "2022-08-25"
+    },
+    {
+      "id": 10,
+      "title": "Freelance project",
+      "amount": 1200,
+      "type": "income",
+      "category": "7",
+      "date": "2022-11-02"
+    },
+    {
+      "id": 11,
+      "title": "Dining out",
+      "amount": 300,
+      "type": "exepanse",
+      "category": "4",
+      "date": "2022-07-10"
+    },
+    {
+      "id": 12,
+      "title": "Bonus",
+      "amount": 1000,
+      "type": "income",
+      "category": "2",
+      "date": "2022-12-15"
+    },
+    {
+      "title": "Udemy Course",
+      "amount": "245",
+      "type": "exepanse",
+      "category": "8",
+      "date": "2023-09-22",
+      "id": 13
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Business"
+    },
+    {
+      "id": 2,
+      "name": "Monthly Income"
+    },
+    {
+      "id": 3,
+      "name": "Investment"
+    },
+    {
+      "id": 4,
+      "name": "Home Needs"
+    },
+    {
+      "id": 5,
+      "name": "Bucket List"
+    },
+    {
+      "id": 6,
+      "name": "Savings"
+    },
+    {
+      "id": 7,
+      "name": "Freelance"
+    },
+    {
+      "id": 8,
+      "name": "Education"
+    }
+  ]
+}
